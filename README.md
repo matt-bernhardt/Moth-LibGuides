@@ -1,4 +1,4 @@
 Moth-LibGuides
 ==============
 
-Porting the Moth template to LibGuides
+Porting the Moth template to LibGuidess
